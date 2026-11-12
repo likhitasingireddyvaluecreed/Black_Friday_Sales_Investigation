@@ -1,0 +1,101 @@
+product_id,product_name,category,list_price,brand,supplier_id
+PR0001,Nova Tablet 1,Electronics,536.17,Northstar,SU004
+PR0002,Eco Lamp 2,Toys,326.68,Northstar ,SU018
+PR0003,Prime Jacket 3,Sports,1306.72,UrbanLeaf,SU017
+PR0004,Urban Lamp 4,Sports,??,NovaTech,SU011
+PR0005,Prime Shoes 5,Toys,491.2,NovaTech,SU016
+PR0006,Prime Watch 6,Toys,1469.71,Northstar,SU012
+PR0007,Urban Jacket 7,Home,1507.93,Everyday,SU001
+PR0008,Prime Headphones 8,Toys,360.4,NovaTech,SU006
+PR0009,Eco Headphones 9,Home,813.49,NovaTech,SU011
+PR0010,Prime Tablet 10,Electronics,N/A,UrbanLeaf,SU008
+PR0011,Prime Blender 11,Beauty,1616.32,Everyday,SU008
+PR0012,Prime Tablet 12,Toys,1613.27,Northstar,SU016
+PR0013,Eco Blender 13,Electronics,859.61,Northstar ,SU011
+PR0014,Nova Tablet 14,Sports,240.15,Northstar,SU016
+PR0015,Prime Headphones 15,Home,453.06,Northstar ,SU015
+PR0016,Nova Jacket 16,Fashion,1283.43,Northstar,SU015
+PR0017,Nova Watch 17,electronics,221.34,,SU012
+PR0018,Eco Lamp 18,Sports,594.06,UrbanLeaf,SU002
+PR0019,Urban Blender 19,Beauty,1749.75,UrbanLeaf,SU018
+PR0020,Eco Tablet 20,Beauty,348.59,Northstar ,SU001
+PR0021,Nova Tablet 21,Fashion,1260.34,NovaTech,SU013
+PR0022,Prime Shoes 22,Beauty,1010.4,UrbanLeaf,SU001
+PR0023,Prime Blender 23,Beauty,free,NovaTech,SU005
+PR0024,Nova Watch 24,Toys,868.73,Northstar,SU007
+PR0025,Eco Blender 25,Beauty,19.76,UrbanLeaf,SU016
+PR0026,Eco Shoes 26,Electronics,1127.71,NovaTech,SU016
+PR0027,Urban Tablet 27,Fashion,36.09,Everyday,SU015
+PR0028,Urban Shoes 28,Fashion,1001.64,Northstar,SU008
+PR0029,Eco Jacket 29,Electronics,1369.58,NovaTech,SU007
+PR0030,Prime Headphones 30,Toys,1471.43,NovaTech,SU017
+PR0031,Nova Lamp 31,Fashion,225.06,UrbanLeaf,SU012
+PR0032,Urban Tablet 32,Electronics,1078.58,Northstar,SU007
+PR0033,Urban Shoes 33,Electronics,302.51,Northstar,SU009
+PR0034,Nova Lamp 34,Home,681.14,Northstar ,SU011
+PR0035,Urban Jacket 35,Electronics,1005.12,,SU012
+PR0036,Eco Shoes 36,Toys,967.23,,SU010
+PR0037,Eco Blender 37,Electronics,1648.26,Northstar,SU005
+PR0038,Eco Watch 38,Toys,547.18,UrbanLeaf,SU016
+PR0039,Eco Shoes 39,Home,612.22,Northstar ,SU010
+PR0040,Eco Shoes 40,Sports,1420.86,Everyday,SU003
+PR0041,Eco Tablet 41,Home,1718.55,NovaTech,SU004
+PR0042,Eco Headphones 42,Sports,1250.44,Everyday,SU012
+PR0043,Prime Headphones 43,Electronics,1142.08,Northstar,SU010
+PR0044,Eco Tablet 44,Electronics,258.25,Northstar,SU017
+PR0045,Eco Jacket 45,Toys,1228.01,Northstar ,SU014
+PR0046,Nova Tablet 46,Fashion,932.56,Everyday,SU004
+PR0047,Nova Shoes 47,Toys,1261.65,Northstar ,SU005
+PR0048,Prime Jacket 48,Fashion,841.14,Northstar ,SU016
+PR0049,Nova Blender 49,Beauty,195.4,UrbanLeaf,SU001
+PR0050,Eco Shoes 50,Electronics,370.67,NovaTech,SU016
+PR0051,Eco Headphones 51,Home,185.78,Northstar,SU011
+PR0052,Eco Headphones 52,Electronics,1723.62,Northstar ,SU005
+PR0053,Prime Blender 53,Home,1080.74,,SU007
+PR0054,Nova Tablet 54,Electronics,891.94,NovaTech,SU008
+PR0055,Nova Jacket 55,Toys,440.84,Everyday,SU008
+PR0056,Nova Shoes 56,Toys,1239.34,Northstar,SU014
+PR0057,Eco Watch 57,Sports,1265.26,Northstar,SU005
+PR0058,Prime Watch 58,Toys,85.33,,SU001
+PR0059,Eco Lamp 59,Home,987.18,NovaTech,SU017
+PR0060,Eco Blender 60,Toys,507.2,NovaTech,SU013
+PR0061,Eco Watch 61,Toys,1443.11,Everyday,SU005
+PR0062,Nova Lamp 62,Sports,9.73,Everyday,SU012
+PR0063,Nova Tablet 63,Home,1393.81,Northstar,SU005
+PR0064,Nova Lamp 64,Sports,1607.34,NovaTech,SU007
+PR0065,Nova Blender 65,Beauty,1034.44,Northstar,SU015
+PR0066,Urban Watch 66,Electronics,117.27,Northstar ,SU004
+PR0067,Eco Tablet 67,Electronics,429.72,Everyday,SU003
+PR0068,Prime Blender 68,Fashion,374.78,Northstar,SU016
+PR0069,Prime Shoes 69,Electronics,671.25,Northstar,SU002
+PR0070,Urban Jacket 70,Electronics,644.96,NovaTech,SU017
+PR0071,Prime Jacket 71,Beauty,1673.68,Northstar,SU010
+PR0072,Prime Tablet 72,Toys,1246.16,Northstar ,SU018
+PR0073,Urban Shoes 73,Beauty,252.98,NovaTech,SU006
+PR0074,Nova Jacket 74,Sports,973.04,Northstar,SU015
+PR0075,Eco Tablet 75,Toys,396.56,UrbanLeaf,SU010
+PR0076,Prime Headphones 76,Sports,135.07,Everyday,SU016
+PR0077,Prime Jacket 77,Fashion,98.13,NovaTech,SU012
+PR0078,Urban Headphones 78,Electronics,509.41,NovaTech,SU002
+PR0079,Urban Headphones 79,Fashion,772.8,Everyday,SU003
+PR0080,Urban Watch 80,Beauty,1521.62,,SU007
+PR0081,Nova Watch 81,Beauty,147.91,UrbanLeaf,SU016
+PR0082,Prime Blender 82,Fashion,unknown,,SU012
+PR0083,Nova Lamp 83,Electronics,1670.6,Everyday,SU005
+PR0084,Nova Lamp 84,Sports,1086.21,,SU015
+PR0085,Urban Jacket 85,Home,1685.17,Northstar ,SU007
+PR0086,Eco Shoes 86,Sports,673.29,UrbanLeaf,SU011
+PR0087,Eco Watch 87,Sports,1766.57,Everyday,SU005
+PR0088,Urban Lamp 88,Fashion,1559.21,Everyday,SU018
+PR0089,Eco Headphones 89,Sports,1247.22,NovaTech,SU006
+PR0090,Prime Shoes 90,Toys,1767.94,NovaTech,SU010
+PR0091,Prime Jacket 91,Toys,1637.55,UrbanLeaf,SU003
+PR0092,Prime Lamp 92,Beauty,649.85,Northstar,SU012
+PR0093,Eco Watch 93,Electronics,152.09,Northstar,SU005
+PR0094,Eco Tablet 94,Home,1275.1,,SU015
+PR0095,Urban Headphones 95,Electronics,774.57,,SU018
+PR0096,Eco Lamp 96,Electronics,674.26,Northstar,SU003
+PR0097,Urban Headphones 97,Fashion,1259.57,UrbanLeaf,SU008
+PR0098,Eco Tablet 98,Fashion,1645.6,UrbanLeaf,SU016
+PR0099,Nova Shoes 99,Home,1316.73,Northstar ,SU009
+PR0100,Prime Jacket 100,Beauty,161.59,Northstar ,SU005
